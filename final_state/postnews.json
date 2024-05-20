@@ -1,0 +1,15 @@
+{
+    "done_counter": "8456724",
+    "domain_bytes": {
+        "data": "1490379861832"
+    },
+    "maxtries": null,
+    "multi:max": null,
+    "ttl": "180",
+    "multi:min": null,
+    "patternlimits": null,
+    "filters": null,
+    "cached_stats": null,
+    "skipdone": null,
+    "filtered_count": null
+}
